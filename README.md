@@ -55,8 +55,7 @@ După adăugarea codului în PlatformIO:
 #include <ESP32Servo.h>
 #include "site.h"
 
-#define Numele_retelei "Vodafone-C8ED"
-#define parola_wifi "Af32Y7jpsfhkBbuu"
+
 
 #define pin_led_camera 2
 #define pin_led_sufragerie 4
