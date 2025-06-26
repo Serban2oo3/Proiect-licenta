@@ -100,7 +100,7 @@ bool servoAt120 = false;
 bool buttonHandled2 = false; 
 
 Servo myServo1;
-bool servoAt90 = false;     \
+bool servoAt90 = false;     
 bool buttonHandled = false; 
 
 
@@ -438,7 +438,7 @@ void Trimite_XML() {
 
 }
 ```
-## Codul de hardware
+## Codul de software
 ```
         const char PAGE_MAIN[] PROGMEM = R"=====(
         <!DOCTYPE html>
