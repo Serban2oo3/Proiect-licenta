@@ -307,15 +307,15 @@ void usa()
       servoAt120 = false;
     }
 
-    delay(5000);  // Așteaptă 5 secunde între comenzi
+    delay(5000);  
   }
 
-  // Așteaptă eliberarea butonului
+ 
   if (digitalRead(pin_buton2) == HIGH && buttonHandled2) {
     buttonHandled2 = false;
   }
 
-  delay(10);  // debounce
+  delay(10);  
 }
 
 void garaj()
