@@ -1,3 +1,4 @@
+https://github.com/Serban2oo3/Proiect-licenta.git
 # Proiect Smart Home cu ESP32
 
 Biblioteca WebServer permite crearea unui server web local pe ESP32 pentru afișarea datelor și controlul componentelor din browser.  
